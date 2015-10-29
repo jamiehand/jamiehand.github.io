@@ -1,3 +1,11 @@
 name: Jamie Hand, Software Developer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+permalink: /projects/:title
+
+# _config.yml
+mini_magick:
+    small:
+        source: img/photos/original
+        destination: img/photos/small
+        resize: "400x230"
