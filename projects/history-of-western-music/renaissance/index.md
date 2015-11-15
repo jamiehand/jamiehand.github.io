@@ -23,14 +23,15 @@ spreading and sharing of music more easily. The Reformation began in the late
 		* Palestrina (1525-1594):
 			* Motets  
 	  	[![Palestrina Motets](/img/photos/small/palestrina.png)](https://youtu.be/PQo_LirQY-k)
-			* "Sicut cervus"  
+			* "Sicut cervus" (example of a motet)  
 			[![Sicut cervus](/img/photos/small/sicut-cervus.png)](https://youtu.be/9mdmco61Htk)
 
 * Secular
 	* Madrigals (began in Italy and moved north through Europe to England)
 		* Early Italian madrigal:
-			* "Il bianco e dolce cigno"  
-			[![Il bianco e dolce cigno](/img/photos/small/madrigal-italy.png)](https://youtu.be/XITlmDJ9-Hk)
+			* Arcadelt:  
+				* "Il bianco e dolce cigno"  
+				[![Il bianco e dolce cigno](/img/photos/small/madrigal-italy.png)](https://youtu.be/XITlmDJ9-Hk)
 		* English (madrigals were simpler by the time they reached England)
 			* Morley  
 				* Two English madrigals from the late 1500s:  
@@ -38,7 +39,7 @@ spreading and sharing of music more easily. The Reformation began in the late
 				* "Sing we and chant it"  
 				[![Sing we and chant it](/img/photos/small/sing-we.png)](https://youtu.be/ciIvhB-zTfc)
 		* Adrien Le Roy
-			* "O madame, pers-je mon temps (1555)"  
+			* "O madame, pers-je mon temps" (1555)  
 			[![Sing we and chant it](/img/photos/small/o-madame.png)](https://youtu.be/2WrgxU-NhoI)
 		* Instrumental
 			* "Canzonetti e Balli Nel 1500" (Early 1500s) (also includes vocals)  
