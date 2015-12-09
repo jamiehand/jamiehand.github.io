@@ -7,3 +7,4 @@ title: A History of Western Music
 
 * [Medieval Period](./medieval-period)
 * [Renaissance](./renaissance)
+* [The Baroque Era](./baroque)

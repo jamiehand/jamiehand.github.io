@@ -10,10 +10,23 @@ title: The Renaissance
 <!-- TODO back button -->
 <!-- * Instruments used strings made of gut -->
 
-* The printing press became popular during the Renaissance and allowed the
-spreading and sharing of music more easily. The Reformation began in the late
-1400s and played a part in the culture and music of this time.
-* Vocal polyphony became popular in Europe around this time as well.
+Overview:
+
+* Similar to the Medieval Period, there is ambiguity around what music from the
+Renaissance actually sounded like.
+* Polyphonic music emerged in [the Medieval Period](../medieval-period)
+and was widespread by the time of the Renaissance.
+* During Renaissance, counterpoint also became popular -- a method in which
+voices imitated one another, which can be found in Palestrina's work.
+* The Reformation of the 16th century played a part in the culture and
+music of this time. For example, different English monarchs required the
+composition of music with different religious emphases.
+* Instrumental music was more frequently copied down during the Renaissance
+than it had been during the Middle Ages, and Petrucci introduced a method of
+printing music in 1501, which allowed the spreading and sharing of this
+music more easily. 
+
+Examples:
 
 * Sacred
 	* Earlier:

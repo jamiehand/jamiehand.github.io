@@ -7,6 +7,28 @@ title: The Medieval Period
 
 ## ~ 900-1400
 
+Overview:
+
+* Little is known about music from the Middle Ages, and what we do know is
+weighted toward the sacred, rather than secular, styles of music. This is
+because it was more common to write down sacred music than secular.
+* Plainchant was the most common style of sacred music -- it was "monophonic"
+music, meaning it had a single line of melody. This could be sung by one or
+many voices and was sung in churches, monasteries, and chapels throughout the
+Medieval Period.
+* "Polyphonic" ("many-voiced") music began to become popular around the 12th
+century in the Church, by elaborating on the basic plainchant in special times
+like Easter and Christmas. By the 15th century polyphonic music was an
+important part of celebrations in the Church and the court.
+* During this time period, motets developed as a popular form of sacred music,
+consisting of a plainchant following a strict rhythmic pattern, above which
+other lines -- with different text -- were placed, resulting in different words
+sounding together at the same time.
+* Most of our records of secular music from the era are preservations of the
+work of troubadours or trobairitz (female troubadours), which often contained
+love themes.
+
+Examples:
 
 * Sacred
 	* Chant
