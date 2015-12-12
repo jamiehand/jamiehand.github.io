@@ -21,12 +21,13 @@ century in the Church, by elaborating on the basic plainchant in special times
 like Easter and Christmas. By the 15th century polyphonic music was an
 important part of celebrations in the Church and the court.
 * During this time period, motets developed as a popular form of sacred music,
-consisting of a plainchant following a strict rhythmic pattern, above which
+consisting of a plainchant following a drawn-out rhythmic pattern, above which
 other lines -- with different text -- were placed, resulting in different words
-sounding together at the same time.
+sounding together at the same time. ([Rehbach](../))
 * Most of our records of secular music from the era are preservations of the
 work of troubadours or trobairitz (female troubadours), which often contained
 love themes.
+* (Unless noted, all information is sourced from [Burrows](../).)
 
 Examples:
 
@@ -38,7 +39,7 @@ Examples:
 			[![Greek Orthodox Chant example](/img/photos/small/orthodox_chant.png)](https://youtu.be/hp1gOhr4_Tg)
 	* Motet  
 		[![Medieval Motet example](/img/photos/small/motet.png)](https://youtu.be/dlIWlcJGKsQ)
-	* English carols - Nowell Sing We: 1400s  
+	* English carols - Nowell Sing We (1400s)  
 		[![Nowell Sing We](/img/photos/small/nowell_sing_we.png)](https://youtu.be/_nWB_CF3m0c)
 	* Hildegard  
 		[![Hildegard von Bingen example](/img/photos/small/hildegard.png)](https://youtu.be/qU7mQylKgqQ)

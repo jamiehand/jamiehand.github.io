@@ -16,15 +16,18 @@ Overview:
 Renaissance actually sounded like.
 * Polyphonic music emerged in [the Medieval Period](../medieval-period)
 and was widespread by the time of the Renaissance.
-* During Renaissance, counterpoint also became popular -- a method in which
-voices imitated one another, which can be found in Palestrina's work.
+* During Renaissance, counterpoint ("part against part") also became popular.
+One form of counterpoint is imitative counterpoint, in which the melodic phrase
+in one voice is imitated by another voice (though not necessarily in the same
+key). ([Rehbach](../)) Some good examples can be found in Palestrina's work.
 * The Reformation of the 16th century played a part in the culture and
 music of this time. For example, different English monarchs required the
 composition of music with different religious emphases.
 * Instrumental music was more frequently copied down during the Renaissance
 than it had been during the Middle Ages, and Petrucci introduced a method of
 printing music in 1501, which allowed the spreading and sharing of this
-music more easily. 
+music more easily.
+* (Unless noted, all information is sourced from [Burrows](../).)
 
 Examples:
 
@@ -40,12 +43,12 @@ Examples:
 			[![Sicut cervus](/img/photos/small/sicut-cervus.png)](https://youtu.be/9mdmco61Htk)
 
 * Secular
-	* Madrigals (began in Italy and moved north through Europe to England)
+	* Madrigals (began in Italy and moved north through Europe to England) ([Rehbach](../))
 		* Early Italian madrigal:
 			* Arcadelt:  
 				* "Il bianco e dolce cigno"  
 				[![Il bianco e dolce cigno](/img/photos/small/madrigal-italy.png)](https://youtu.be/XITlmDJ9-Hk)
-		* English (madrigals were simpler by the time they reached England)
+		* English (madrigals were simpler by the time they reached England) ([Rehbach](../))
 			* Morley  
 				* Two English madrigals from the late 1500s:  
 				[![Two English Madrigals](/img/photos/small/madrigal-england.png)](https://youtu.be/x1ZwVW8vw4A)
