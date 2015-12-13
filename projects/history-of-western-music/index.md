@@ -11,8 +11,6 @@ Time Periods
 * [Renaissance](./renaissance)
 * [The Baroque Era](./baroque)
 
-<br/>
-
 Sources:
 
 * Burrows, John, ed. *Eyewitness Companions: Classical Music*. New York:
