@@ -15,7 +15,7 @@ Time Periods
 
 Sources:
 
-* Rehbach, Jeff (Director, Middlebury College Community Chorus). Personal
-interview. 9 Dec. 2015.
 * Burrows, John, ed. *Eyewitness Companions: Classical Music*. New York:
 DK Publishing, Inc., 2005. Print.
+* Rehbach, Jeff (Director, Middlebury College Community Chorus). Personal
+interview. 9 Dec. 2015.
