@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About me!
+title: Blogs and Websites
 ---
 
 # {{ page.title }}
