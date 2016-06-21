@@ -22,6 +22,9 @@ USAGE
 # Grab some of the values from the slash command, create vars for post back to Slack
 
 
+/*
+
+
 $command = $_POST['command'];
 $text = $_POST['text'];
 $token = $_POST['token'];
@@ -71,3 +74,9 @@ if($ch_response === FALSE){
 }
 # Send the reply back to the user.
 echo $reply;
+
+
+*/
+
+
+echo "hello!";
