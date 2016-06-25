@@ -11,9 +11,9 @@ title: Jamie Hand, Software Developer
 
 I'm a rising super senior feb Computer Science major at
 [Middlebury College](http://www.middlebury.edu).
-What is a “super senior feb,” you ask? It's a Middlebury term for a student
+(“Super senior feb” is a Middlebury term for a student
 who has one semester left. I will graduate in February (hence the “feb”)
-of 2017.
+of 2017.)
 
 This site is a work in progress, but please
 look around and learn more about me, my interests,
@@ -30,11 +30,13 @@ programs I would be designing.
 Now, I am a software engineer, and
 I am excited to be a Media Tech intern with NBCUniversal's News Group this
 summer! I am currently developing a Slack bot in Node.js to help streamline
-the code release process for NBCNews.com and Today.com. I am also collaborating
+the code release process for [NBCNews.com](http://www.nbcnews.com/) and
+[Today.com](http://www.today.com/). I am also collaborating
 with fellow interns (remote and in Seattle) on an innovation project and will
-be working on the NBCNew.com team later in the summer. The staff at NBCU's
-Seattle office is wonderful, and I'm enjoying learning from them and
-creating software that will improve their workflow. I'm looking forward to
+be working on the NBCNews.com team later in the summer. The staff at NBCU's
+Seattle office is wonderful -- they are helping me learn about the city,
+NBCU, and the needs and complexities of news technology. I'm enjoying learning from them and
+creating software that will improve their workflow. I look forward to
 what the rest of the summer holds!
 
 ### I am an explorer.
