@@ -5,6 +5,8 @@ title: Jamie Hand, Software Developer
 
 ## Hello!
 
+![Welcome!](/img/photos/large/nbcu_newsgroup.jpg)
+
 ### I am Jamie Hand. I'm glad you're here -- enjoy, and have a great day!
 
 I'm a rising super senior feb Computer Science major at

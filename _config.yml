@@ -9,3 +9,7 @@ mini_magick:
         source: img/photos/original
         destination: img/photos/small
         resize: "400x230"
+    large:
+        source: img/photos/original
+        destination: img/photos/large
+        resize: "800x600"

@@ -8,7 +8,9 @@ title: A History of Western Music
 Time Periods
 
 * [Medieval Period](./medieval-period)
+
 * [Renaissance](./renaissance)
+
 * [The Baroque Era](./baroque)
 
 Sources:

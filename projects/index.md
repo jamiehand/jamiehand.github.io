@@ -18,7 +18,9 @@ title: Projects
   be visualized, using elasticsearch-py. I also made a [video demo](https://youtu.be/JJ6BN8t3a1Y)
   of the project, including a tour of the code.
 
-* Fall 2015: [A History of Western Music](./history-of-western-music)
+* Fall 2015: [A History of Western Music](./history-of-western-music), a
+  website covering a brief overview of Western music from the Medieval Period
+  to the Baroque Era.
 
 * Summer 2015: [Python client library](https://github.com/jamiehand/osf_api_v2_client)
   for interacting with the [Open Science Framework](https://osf.io) API.
@@ -34,6 +36,6 @@ title: Projects
   and to provide an example for 60+ Center for Open Science developers to build
   software using the new OSF API. I also designed thorough documentation of my
   work to onboard the next developer to the client library project.
-  
+
 <!-- TODO add Senior Seminar project, info vis project with Emily,
      some assignments done for Pete's classes -->
