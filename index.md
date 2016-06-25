@@ -56,14 +56,16 @@ geography, and other
 factors. There are systems in the world that benefit some people to the
 harm of others, and I am committed to working within myself and within the
 communities I inhabit to give all people equal access to recognition and
-resources. So far my work in this has been mostly in encouraging diversity
+resources.
+
+So far my work in this has been mostly in encouraging diversity
 in the field of technology. I have participated in several groups for women
 in technology, including as a founding member of Middlebury College's
 [Women in Computer Science ++](http://middleburywics.weebly.com/) and
 participant with [Girl Develop It](http://www.meetup.com/Girl-Develop-It-CentralVA/)
 and [Charlottesville Women in Tech](http://www.charlottesvillewomenintech.com/).
 I am also a Computer Science tutor at Middlebury, an informal mentor to
-younger students, and involved in two organized mentorship groups.
+younger students, and involved in two mentorship groups.
 
 I also recognize the importance of caring for the earth for the sake of
 caring for people. I am not currently active in environmentally-focused groups,
@@ -77,7 +79,7 @@ Everything intrigues me, and I want to understand it. I have recently worked
 part-time submitting payment vouchers for a lawyer, washing dishes at a
 restaurant, and setting up meals for conferences — and all of these have taught
 me more about myself and about the world. I especially enjoy learning about
-social justice, design, technological systems that make our world work, and
+social justice, design, the technological systems that make our world work, and
 new ways to approach problems. I also love to listen to people talk about
 their interests -- to learn why their passions matter to them and
 what I should know about those areas.
