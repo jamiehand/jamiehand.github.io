@@ -7,34 +7,33 @@ title: Jamie Hand, Software Developer
 
 ### I am Jamie Hand. I'm glad you're here -- enjoy, and have a great day!
 
-I'm a senior feb Computer Science major at
+I'm a rising super senior feb Computer Science major at
 [Middlebury College](http://www.middlebury.edu).
-What is a “senior feb,” you ask? Basically, it means I am half-junior,
-half-senior. I will graduate in February (hence the “feb”) of 2017.
+What is a “super senior feb,” you ask? It's a Middlebury term for a student
+who has one semester left. I will graduate in February (hence the “feb”)
+of 2017.
 
-
-This site is also a work in progress, but please
+This site is a work in progress, but please
 look around and learn more about me, my interests,
 and my work.
 
 ### I am a Computer Scientist.
 
 In the summer of 2010, I first experienced the joy of teaching a computer to do
-something. Here I am in a robotics workshop at the Glenville State College NASA
+something in a robotics workshop at the Glenville State College NASA
 Research Academy. We used sensors to direct the robot through an obstacle
 course! Little did I know then, but that was the first of many computer
 programs I would be designing.
 
-Now, I am a software engineer interested in learning all that
-I can about software, computers, and the systems that make
-our daily lives work. I recently interned with the [Center for Open
-Science](http://centerforopenscience.org) doing software development,
-working mostly with creating a Python client library
-for interacting with the API for their main service,
-the [Open Science Framework](https://osf.io).
-The client is still a work in progress (and that progress
-passed into the hands of another developer at the end of
-August 2015), but it can be found [here](https://github.com/jamiehand/osf_api_v2_client).
+Now, I am a software engineer, and
+I am excited to be a Media Tech intern with NBCUniversal's News Group this
+summer! I am currently developing a Slack bot in Node.js to help streamline
+the code release process for NBCNews.com and Today.com. I am also collaborating
+with fellow interns (remote and in Seattle) on an innovation project and will
+be working on the NBCNew.com team later in the summer. The staff at NBCU's
+Seattle office is wonderful, and I'm enjoying learning from them and
+creating software that will improve their workflow. I'm looking forward to
+what the rest of the summer holds!
 
 ### I am an explorer.
 
@@ -46,19 +45,38 @@ In February 2015 I returned to school after a semester-long break (the reason I
 am now a “feb”), which I spent exploring things like living life slowly, being
 part of a band (I play violin and sing!), and learning how to cook!
 
+### I am an activist.
+
+Throughout the past few years, I have become increasingly aware of injustice
+that occurs based on race, gender, sexual orientation,
+self-expression, physical and mental ability, age, class, size,
+geography, and other
+factors. There are systems in the world that benefit some people to the
+harm of others, and I am committed to working within myself and within the
+communities I inhabit to give all people equal access to recognition and
+resources. So far my work in this has been mostly in encouraging diversity
+in the field of technology. I have participated in several groups for women
+in technology, including as a founding member of Middlebury College's
+[Women in Computer Science ++](http://middleburywics.weebly.com/) and
+participant with [Girl Develop It](http://www.meetup.com/Girl-Develop-It-CentralVA/)
+and [Charlottesville Women in Tech](http://www.charlottesvillewomenintech.com/).
+I am also a Computer Science tutor at Middlebury, an informal mentor to
+younger students, and involved in two organized mentorship groups.
+
+I also recognize the importance of caring for the earth for the sake of
+caring for people. I am not currently active in environmentally-focused groups,
+but I support their efforts, and I personally work daily to reduce the
+resources that I use and waste and negative impacts that I create. It's
+a hard balance to find, but facing the challenge is important!
+
 ### I love to learn!
 
 Everything intrigues me, and I want to understand it. I have recently worked
 part-time submitting payment vouchers for a lawyer, washing dishes at a
 restaurant, and setting up meals for conferences — and all of these have taught
-me more about myself and about the world. I especially enjoy learning about software engineering (back end), information visualization/graphic design
-(front end), and the technological systems that make our world what it is today.
-I look forward to what my future classes and work will teach me!
-
-### I will be in Seattle this summer!
-
-I will be working on NBC Universal's media tech team as an intern in the summer
-of 2016, and I am so excited! While there, I will continue to grow my skills
-in web development (which I did a lot of in summer 2015 with the Center for
-Open Science) and get my first taste of what it's like to work in media. Stay
-tuned for updates on what I learn with NBCU!
+me more about myself and about the world. I especially enjoy learning about
+social justice, design, technological systems that make our world work, and
+new ways to approach problems. I also love to listen to people talk about
+their interests -- to learn why their passions matter to them and
+what I should know about those areas.
+I look forward to what my future classes, work, and interactions will teach me!
