@@ -3,7 +3,7 @@ layout: default
 title: Jamie Hand, Software Developer
 ---
 
-## Hello!
+# Hello!
 
 ![Welcome!](/img/photos/large/nbcu_newsgroup.jpg)
 
