@@ -12,7 +12,7 @@ title: Jamie Hand, Software Developer
 I'm a super senior feb Computer Science major at
 [Middlebury College](http://www.middlebury.edu).
 (“Super senior feb” is a Middlebury term for a student
-who has one semester left. I will graduate in February — hence the “feb” —
+who has one semester left. I will graduate in February -- hence the “feb” --
 of 2017.)
 
 ### I am a Computer Scientist.
@@ -43,8 +43,8 @@ I'm open to other locations!
 
 I took a year off after high school to live in Brazil as a Rotary Exchange
 Student. I used my first two years of college as an experiment to see what I
-wanted to major in — I considered Political Science, Economics, Biology, Math,
-Japanese, Sociology, Religion, and Spanish, then — finally! — Computer Science.
+wanted to major in -- I considered Political Science, Economics, Biology, Math,
+Japanese, Sociology, Religion, and Spanish, then -- finally! -- Computer Science.
 In February 2015 I returned to school after a semester-long break (the reason I
 am now a “feb”), which I spent exploring things like living life slowly, being
 part of a band (I play violin and sing!), and learning how to cook!
@@ -89,6 +89,6 @@ All of these teach
 me more about myself and about the world. I especially enjoy learning about
 social justice, design, the technological systems that make our world work, and
 new ways to approach problems. I also love to listen to people talk about
-their interests - to learn why their passions matter to them and
+their interests -- to learn why their passions matter to them and
 what I should know about those areas.
 I look forward to what my future classes, work, and interactions will teach me!
