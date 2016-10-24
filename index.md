@@ -9,15 +9,11 @@ title: Jamie Hand, Software Developer
 
 ### I am Jamie Hand. I'm glad you're here -- enjoy, and have a great day!
 
-I'm a rising super senior feb Computer Science major at
+I'm a super senior feb Computer Science major at
 [Middlebury College](http://www.middlebury.edu).
 (“Super senior feb” is a Middlebury term for a student
 who has one semester left. I will graduate in February (hence the “feb”)
 of 2017.)
-
-This site is a work in progress, but please
-look around and learn more about me, my interests,
-and my work.
 
 ### I am a Computer Scientist.
 
@@ -28,16 +24,20 @@ course! Little did I know then, but that was the first of many computer
 programs I would be designing.
 
 Now, I am a software engineer, and
-I am excited to be a Media Tech intern with NBCUniversal's News Group this
-summer! I am currently developing a Slack bot in Node.js to help streamline
+I am excited to have been a Media Tech intern with NBCUniversal's News Group this
+summer! In the internship, I developed a Slack bot in Node.js to help streamline
 the code release process for [NBCNews.com](http://www.nbcnews.com/) and
-[Today.com](http://www.today.com/). I am also collaborating
-with fellow interns (remote and in Seattle) on an innovation project and will
-be working on the NBCNews.com team later in the summer. The staff at NBCU's
-Seattle office is wonderful -- they are helping me learn about the city,
-NBCU, and the needs and complexities of news technology. I'm enjoying learning from them and
-creating software that will improve their workflow. I look forward to
-what the rest of the summer holds!
+[Today.com](http://www.today.com/). I also collaborated
+with fellow interns (remote and in Seattle) on an innovation project and
+presentation that won among several other intern groups.
+
+Now I am back at Middlebury and I'm excited to be looking for full-time
+roles after graduation! My ideal position would involve both software
+development and client interaction (e.g. in a consultant-like capacity,
+designing solutions for clients' problems and working to implement those
+solutions, including liaising between clients and developer teams implementing
+solutions). My ideal location is Seattle because I have family there, but
+I'm open to other locations!
 
 ### I am an explorer.
 
@@ -72,14 +72,20 @@ younger students, and involved in two mentorship groups.
 I also recognize the importance of caring for the earth for the sake of
 caring for people. I am not currently active in environmentally-focused groups,
 but I support their efforts, and I personally work daily to reduce the
-resources that I use and waste and negative impacts that I create. It's
+resources that I use and negative impacts that I create. It's
 a hard balance to find, but facing the challenge is important!
 
 ### I love to learn!
 
-Everything intrigues me, and I want to understand it. I have recently worked
-part-time submitting payment vouchers for a lawyer, washing dishes at a
-restaurant, and setting up meals for conferences — and all of these have taught
+Everything intrigues me, and I want to understand it. I have volunteered
+for audio/video at a conference, interned at a shelter for immigrants,
+interviewed 24 students at an international graduate school, submitted
+payment vouchers for a lawyer, washed dishes at a
+restaurant, and helped set up meals for conferences.
+I watch YouTube videos
+on tech, problem solving, web design, personal branding, feminism,
+social justice, world history, workouts, and whatever else catches my eye.
+All of these teach
 me more about myself and about the world. I especially enjoy learning about
 social justice, design, the technological systems that make our world work, and
 new ways to approach problems. I also love to listen to people talk about

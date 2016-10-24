@@ -72,11 +72,13 @@ title: Projects
 
 ### Fall 2015
 
-* [Small full-stack codebase](https://github.com/jamiehand/learning-tornado)
-  that helped me learn and showcase interactive information visualization. I used Python
+* [Info Vis: Interactive representations of projects and tag frequency](https://github.com/jamiehand/learning-tornado)
+  that helped me learn and showcase interactive information visualization with D3.js,
+  along with creating and maintaining an ElasticSearch instance. I used Python
   with Tornado to serve the site, which mostly consists of one static page. The
-  static page, though, calls an ElasticSearch server to get the information to
-  be visualized, using elasticsearch-py. I also made a [video demo](https://youtu.be/JJ6BN8t3a1Y)
+  static page calls an ElasticSearch server to get the information to
+  be visualized, using elasticsearch-py. I also made a
+  [video demo](https://youtu.be/JJ6BN8t3a1Y)
   of the project, including a tour of the code.
   ([GitHub](https://github.com/jamiehand/learning-tornado))
 
