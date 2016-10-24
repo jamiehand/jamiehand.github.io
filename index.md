@@ -12,7 +12,7 @@ title: Jamie Hand, Software Developer
 I'm a super senior feb Computer Science major at
 [Middlebury College](http://www.middlebury.edu).
 (“Super senior feb” is a Middlebury term for a student
-who has one semester left. I will graduate in February (hence the “feb”)
+who has one semester left. I will graduate in February — hence the “feb” —
 of 2017.)
 
 ### I am a Computer Scientist.
@@ -25,14 +25,14 @@ programs I would be designing.
 
 Now, I am a software engineer, and
 I am excited to have been a Media Tech intern with NBCUniversal's News Group this
-summer! In the internship, I developed a Slack bot in Node.js to help streamline
+past summer! In the internship, I developed a Slack bot in Node.js to help streamline
 the code release process for [NBCNews.com](http://www.nbcnews.com/) and
 [Today.com](http://www.today.com/). I also collaborated
 with fellow interns (remote and in Seattle) on an innovation project and
 presentation that won among several other intern groups.
 
-Now I am back at Middlebury and I'm excited to be looking for full-time
-roles after graduation! My ideal position would involve both software
+I'm enjoying my last semester at Middlebury, and I'm excited to be looking for
+full-time roles after graduation! My ideal position would involve both software
 development and client interaction (e.g. in a consultant-like capacity,
 designing solutions for clients' problems and working to implement those
 solutions, including liaising between clients and developer teams implementing
@@ -57,8 +57,8 @@ self-expression, physical and mental ability, age, class, size,
 geography, and other
 factors. There are systems in the world that benefit some people to the
 harm of others, and I am committed to working within myself and within the
-communities I inhabit to give all people equal access to recognition and
-resources.
+communities I inhabit to give all people equal access to the recognition and
+resources that they need to thrive.
 
 So far my work in this has been mostly in encouraging diversity
 in the field of technology. I have participated in several groups for women
@@ -89,6 +89,6 @@ All of these teach
 me more about myself and about the world. I especially enjoy learning about
 social justice, design, the technological systems that make our world work, and
 new ways to approach problems. I also love to listen to people talk about
-their interests -- to learn why their passions matter to them and
+their interests - to learn why their passions matter to them and
 what I should know about those areas.
 I look forward to what my future classes, work, and interactions will teach me!
