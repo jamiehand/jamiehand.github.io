@@ -1,11 +1,11 @@
 ---
 layout: blackwomanhood
-title: Black Power | Black Womanhood in Relationships with Men
+title: Black Arts | Black Womanhood in Relationships with Men
 ---
 
 ### [Black Womanhood in Relationships with Men](../)
 
-# Black Power
+# Black Arts
 
 [![Nikki Giovanni: Reading from Gemini](/img/photos/large/bw-nikki-giovanni.png)](https://youtu.be/084lIpz3yvY)
 

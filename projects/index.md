@@ -6,6 +6,16 @@ title: Projects
 
 * See more projects and the latest updates on [GitHub](https://github.com/jamiehand)!
 
+### Fall 2016
+
+* [A History of Black Women's Agency in Relationships With Men](./black-womens-relationships-with-men), a
+  project covering Black women's relationships with men in four eras from the
+  late 19th century to the present, through the analysis of one pop culture
+  artifact from each era, along with scholarly texts. Created as a
+  culminating project for my Black Womanhood in Popular Culture class
+  with Professor J Finley of Middlebury College.
+
+
 ### Summer 2016
 
 * ReleaseBot, a Slack bot to improve communication for the code

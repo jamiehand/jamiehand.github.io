@@ -18,7 +18,7 @@ interview. 9 Dec. 2015.
 
 <table width="100%">
     <tr>
-        <td><a href="../black-power"><< prev <br><b>Black Power</b></a></td>
+        <td><a href="../black-arts"><< prev <br><b>Black Arts</b></a></td>
         <td align="right"><a href="../">next >><br><b>Overview</b></a></td>
     </tr>
 </table>

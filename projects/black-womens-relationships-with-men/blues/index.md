@@ -19,6 +19,6 @@ interview. 9 Dec. 2015.
 <table width="100%">
     <tr>
         <td><a href="../slave-narratives"><< prev <br><b>Slave Narratives</b></a></td>
-        <td align="right"><a href="../black-power">next >><br><b>Black Power</b></a></td>
+        <td align="right"><a href="../black-arts">next >><br><b>Black Arts</b></a></td>
     </tr>
 </table>
