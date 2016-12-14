@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    min-width: 320px;
     max-width: 800px;
     font-family: Georgia, Times, "Times New Roman", serif;
 }
@@ -23,7 +24,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
+ {
     font-size: 3em;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
   Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -59,4 +60,36 @@ ul.posts li {
 
 .center {
     margin: 0 auto;
+}
+
+.bw-overview-table {
+    margin: 0 auto;
+    border-spacing: 0;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+.bw-overview-table td {
+    padding-top: 1em;
+}
+
+.bw-overview-table th {
+    border-bottom: solid;
+    border-width: medium;
+}
+
+.bw-snapshot-cell {
+    width: 400px; /* snapshots (images in img/photos/small) are 400px wide */
+}
+
+.bw-overview-cell {
+    padding-left: 2em;
+    align: left;
+    min-width: 200px;
+    font-size: .95em; /* make the font a little smaller */
+}
+
+.bw-overview-cell h4 {
+    margin: 0;
+    margin-bottom: .2em;
+    padding: 0;
 }
