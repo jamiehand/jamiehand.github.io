@@ -8,12 +8,27 @@ title: A History of Black Women's Agency in Romantic Relationships with Men
 This project provides a look at Black women's individual autonomy in
 their romantic relationships with men in four eras from the
 late 19th century to the present, through the analysis of one pop culture
-artifact from each era, along with scholarly texts. It was created
+artifact from each era, along with scholarly texts. Over the course of
+the past century and a half, pop culture has portrayed certain
+tropes of Black womanhood that have been present for
+centuries, at least since the time of 16th-century travelogues by
+European men visiting Africa. Since then, blues, Black Arts, and current
+media have simultaneously been sites of perpetuation of these stereotypes,
+as well as sites of
+resistance and defiance of dominant stereotypes of Black womanhood.
+
+
+Here I focus especially on the agency and autonomy of Black women in
+making decisions about their romantic lives with men, and in narrating
+their own stories through media.
+To best understand the progression of my argument, start by clicking the
+"Slavery" section below, and follow through to the end by clicking the "Next"
+button at the bottom of each page.
+
+This site was created
 in December 2016, as a
 culminating project for my Black Womanhood in Popular Culture class
-with Professor J Finley of Middlebury College.
-
-Thank you for everything, Professor Finley!
+with Professor J Finley of Middlebury College. Thank you for everything, Professor Finley!
 
 <table class="bw-overview-table">
   <tr>
@@ -33,7 +48,7 @@ Thank you for everything, Professor Finley!
     </td>
     <td class="bw-overview-cell">
       <a href="./slave-narratives">
-      <h4>Slave Narratives (late 1800s):</h4>
+      <h4>Slavery (late 1800s):</h4>
       </a>
       The artifact is an HBO documentary that includes readings of interviews
       with the final generation of African Americans born into slavery in
@@ -77,7 +92,7 @@ Thank you for everything, Professor Finley!
       </a>
       The artifact is Nikki Giovanni reading an excerpt from her book
       <i>Gemini</i> (1976). Giovanni is part of the Black Arts Movement, an arm of
-      the Black Arts Movement. This excerpt demonstrates/reveals a nuanced
+      the Black Arts Movement. This excerpt demonstrates a complex
       understanding of Black women's relationship to Black men in the US.
       On the one hand, Giovanni sees Black men as being controlled by the
       Black women in their lives; on the other, Giovanni herself resists
@@ -100,7 +115,7 @@ Thank you for everything, Professor Finley!
       also is the star and protagonist of the show. Issa Rae plays J, who
       is not opposed to being in relationships, but she is not defined by
       her relationships, and she unapologetically
-      makes her own decisions about her body and her identity.
+      makes her own decisions about her story and her identity.
     </td>
   </tr>
 </table>
