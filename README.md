@@ -13,6 +13,5 @@
   - `/_site/img/photos/large` and `/_site/img/photos/small` should now have
     corresponding images to the ones that you placed in the `original`
     directory.
-- NOTE: Not sure if this step is needed:
-  - Copy the newly updated `/_site/img/photos` directory, and paste it into
-    `/img/` directory (replacing the old `/img/photos` directory).
+- Copy the newly updated `/_site/img/photos` directory, and paste it into
+  `/img/` directory (replacing the old `/img/photos` directory).
