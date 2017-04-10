@@ -136,8 +136,9 @@ title: Projects
 ### Spring 2015
 
   * My first website was created with WordPress in January 2015. To create it, I
-    purchased a web hosting package, registered and purchased a domain, and found a
-    theme that I liked, even contacting the theme's makers when the theme
-    was not behaving as expected. Designing that site was a lot of fun, and it was
+    purchased a web hosting package, registered and purchased a domain, found a
+    theme that I liked, and contacted the theme's makers when the theme
+    was not behaving as expected (Classic. We got it figured out). Designing 
+    that site was a lot of fun, and it was
     beautiful! But I wanted to go deeper into the code behind my website, which is
-    why I decided to create the website you are looking at!
+    why I decided to create this website in Summer 2015.
