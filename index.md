@@ -44,7 +44,9 @@ which I spent exploring things like living life slowly, being
 part of a band (I play violin and sing!), and learning how to cook. 
 
 Lately, I'm building my personal brand through exploring social 
-media platforms. I'm also exploring the world of zero-waste living and natural
+media platforms. (To keep up with my social media adventures, follow my
+[Facebook Page](https://www.facebook.com/jamiechand4/).)
+I'm also exploring the world of zero-waste living and natural
 alternatives to common household products. Which brings me to the next point...
 
 ### I am working toward a better world.
