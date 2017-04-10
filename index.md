@@ -86,8 +86,8 @@ racial justice, self-care, workouts, and whatever else catches my eye
 
 All of these teach
 me more about myself and about the world (okay, maybe not the cat videos -- but they
-do bring me joy). I especially enjoy learning about green living,
-intersectional feminism, design, the technological systems that make our world work, and
+do bring me joy). I especially enjoy learning about sustainable living, entrepreneurship,
+public speaking, branding, design, the technological systems that make our world work, and
 new ways to approach problems. I also love to listen to people talk about
 their interests -- to learn why their passions matter to them and
 what I might want to know about those areas.
