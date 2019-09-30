@@ -11,7 +11,7 @@ And this is an octopus I drew, inspired by the Monterey Bay Aquarium.
 
 ### I engineer software.
 
-I am a Web Solutions Engineer at Google (July 1017-present), designing and implementing full-stack business web applications to make Google's internal processes more effective and to connect Google with partners and consumers, using Angular Typescript, Javascript (Polymer), Java, HTML/CSS, SQL, Apps Framework, and One Platform APIs.
+I am a Web Solutions Engineer at Google (July 2017-present), designing and implementing full-stack business web applications to make Google's internal processes more effective and to connect Google with partners and consumers, using Angular Typescript, Javascript (Polymer), Java, HTML/CSS, SQL, Apps Framework, and One Platform APIs.
 
 For examples of my code pre-Google, check out my [projects page](/projects/) and the [video](https://youtu.be/JJ6BN8t3a1Y) I made for an information visualization project.
 
