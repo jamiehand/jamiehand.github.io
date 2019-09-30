@@ -6,6 +6,7 @@ title: Jamie Hand, Software Engineer
 # Hello! I'm Jamie.
 
 ![A picture of me holding a multi-colored crayon drawing of an octopus.](/img/photos/original/octopus.jpg)
+
 And this is an octopus I drew, inspired by the Monterey Bay Aquarium.
 
 ### I engineer software.
